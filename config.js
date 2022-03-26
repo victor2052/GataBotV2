@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GataBot 🐈'
-global.author = 'Gata Dios'
+global.packname = 'VicBot 🦦'
+global.author = 'ig: Only__vicc'
 
 
 //global.wait = '*Esperé un momento..*'
